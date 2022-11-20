@@ -14,7 +14,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:adjustViewBounds="true"
-        android:contentDescription="@string/cafe_logo"
+        android:contentDescription="@string/iv_cafe_logo_description"
         android:padding="32dp"
         app:srcCompat="@drawable/ic_baseline_local_cafe_24" />
 
@@ -22,7 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="16dp"
-        android:text="@string/welcome"
+        android:text="@string/tv_welcome"
         android:textAlignment="center"
         android:textColor="#78909C"
         android:textSize="32sp"
@@ -50,7 +50,7 @@
     <Button
         android:layout_width="match_parent"
         android:id="@+id/btLogin"
-        android:text="@string/login"
+        android:text="@string/bt_login"
         android:layout_margin="24dp"
         android:layout_height="wrap_content" />
 </LinearLayout>

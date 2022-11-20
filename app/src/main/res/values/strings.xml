@@ -1,8 +1,29 @@
 <resources>
     <string name="app_name">Cafe</string>
-    <string name="welcome">Welcome!</string>
+    <string name="tv_welcome">Welcome!</string>
     <string name="et_name_hint">Name</string>
     <string name="et_password_hint">Password</string>
-    <string name="login">login</string>
-    <string name="cafe_logo">Cafe Logo</string>
+    <string name="bt_login">login</string>
+    <string name="iv_cafe_logo_description">Cafe Logo</string>
+    <string name="tv_greetings">Hello, %s! What would you like to order?</string>
+    <string name="rb_tea">Tea</string>
+    <string name="rb_coffee">Coffee</string>
+    <string name="tv_additives">What additives would you like to add to your %s?</string>
+    <string name="cb_sugar">Sugar</string>
+    <string name="cb_milk">Milk</string>
+    <string name="cb_lemon">Lemon</string>
+    <string name="tv_drink_type">What drink type would you like?</string>
+    <string name="bt_make_order">make order</string>
+
+    <string-array name="tea_types">
+        <item>Black</item>
+        <item>Green</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="coffee_types">
+        <item>Latte</item>
+        <item>Espresso</item>
+        <item>Café glacé</item>
+    </string-array>
 </resources>

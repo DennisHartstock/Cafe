@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cafe</string>
+    <string name="welcome">Welcome!</string>
+    <string name="et_name_hint">Name</string>
+    <string name="et_password_hint">Password</string>
+    <string name="login">login</string>
+    <string name="cafe_logo">Cafe Logo</string>
 </resources>

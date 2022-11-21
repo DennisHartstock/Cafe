@@ -5,15 +5,19 @@
     <string name="et_password_hint">Password</string>
     <string name="bt_login">login</string>
     <string name="iv_cafe_logo_description">Cafe Logo</string>
-    <string name="tv_greetings">Hello, %s! What would you like to order?</string>
+    <string name="tv_greetings_label">Hello, %s! What would you like to order?</string>
     <string name="rb_tea">Tea</string>
     <string name="rb_coffee">Coffee</string>
-    <string name="tv_additives">What additives would you like to add to your %s?</string>
+    <string name="tv_additives_label">What additives would you like to add to your %s?</string>
     <string name="cb_sugar">Sugar</string>
     <string name="cb_milk">Milk</string>
     <string name="cb_lemon">Lemon</string>
-    <string name="tv_drink_type">What drink type would you like?</string>
+    <string name="tv_drink_type_label">What drink type would you like?</string>
     <string name="bt_make_order">make order</string>
+    <string name="tv_name">Name:</string>
+    <string name="tv_drink">Drink:</string>
+    <string name="tv_drink_type">Drink type:</string>
+    <string name="tv_additives">Additives:</string>
 
     <string-array name="tea_types">
         <item>Black</item>

@@ -1,5 +1,6 @@
 package com.example.cafe;
 
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
@@ -20,5 +21,11 @@ public class MakeOrderActivity extends AppCompatActivity {
             Intent intent = new Intent(this, OrderDetailActivity.class);
             startActivity(intent);
         });
+    }
+
+    public static Intent newIntent(Context context, String name) {
+        Intent intent = new Intent(context, MakeOrderActivity.class);
+        intent.putExtra("name", name);
+        return intent;
     }
 }

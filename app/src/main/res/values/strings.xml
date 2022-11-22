@@ -18,6 +18,7 @@
     <string name="tv_drink">Drink:</string>
     <string name="tv_drink_type">Drink type:</string>
     <string name="tv_additives">Additives:</string>
+    <string name="toast_error_fields_empty">Please fill both fields</string>
 
     <string-array name="tea_types">
         <item>Black</item>
